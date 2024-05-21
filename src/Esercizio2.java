@@ -12,5 +12,6 @@ public class Esercizio2 {
 
         System.out.println(primaStringa + " " + secondaStringa + " " + terzaStringa);
         System.out.println(terzaStringa + " " + secondaStringa + " " + primaStringa);
+        sc.close();
     }
 }
